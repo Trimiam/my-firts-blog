@@ -25,7 +25,7 @@ SECRET_KEY = 'uwsoc(-bdjoi65co2itq25p5n7$zm)ihmgs12yt5#=!lnv0bs0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
